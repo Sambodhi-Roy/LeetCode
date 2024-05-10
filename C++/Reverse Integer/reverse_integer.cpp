@@ -23,9 +23,11 @@ Output: 21
 #include<bits/stdc++.h>
 using namespace std;
 
-class Solution {
+class Solution 
+{
 public:
-    int reverse(int x) {
+    int reverse(int x) 
+    {
         long r=0;
         int a=abs(x);
         while(a>0)
