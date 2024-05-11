@@ -7,4 +7,5 @@ Here is the list of all the problems I completed on LeetCode.
 |------|--------------------------------|--------------------------------------------------------------------|
 | 7    |  Reverse Integer               |  [Link](https://leetcode.com/problems/reverse-integer/)            |
 | 125  |  Valid Palindrome              |  [Link](https://leetcode.com/problems/valid-palindrome/)           |
+| 347  |  Top K Frequent Elements       |  [Link](https://leetcode.com/problems/top-k-frequent-elements/description/)           |
 | 509  |  Fibonacci Number              |  [Link](https://leetcode.com/problems/fibonacci-number/)           |
