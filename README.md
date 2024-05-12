@@ -7,6 +7,7 @@ Here is the list of all the problems I completed on LeetCode.
 |------|---------------------------------- |------------|--------------------------------------------------------------------------------|
 | 7    |  Reverse Integer                  |    Medium  |  [Link](https://leetcode.com/problems/reverse-integer/)                        |
 | 9    |  Palindrome Number                |    Easy    |  [Link](https://leetcode.com/problems/palindrome-number/)                      |
+| 26   |  Remove Duplicates from Sorted Array|    Easy    |  [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                      |
 | 94   |  Binary Tree InOrder Traversal    |    Easy    |  [Link](https://leetcode.com/problems/binary-tree-inorder-traversal/)          |
 | 125  |  Valid Palindrome                 |    Easy    |  [Link](https://leetcode.com/problems/valid-palindrome/)                       |
 | 144  |  Binary Tree PreOrder Traversal   |    Easy    |  [Link](https://leetcode.com/problems/binary-tree-preorder-traversal/)         |
